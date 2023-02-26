@@ -1,0 +1,28 @@
+.btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    padding-top: 6px;
+    background-color: blue;
+    color: white;
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.wrapper_icon2 {
+    width: 16px;
+    height: 16px;
+}
+
+.svg {
+    background-image: url('./svg/arrow.svg');
+    background-repeat: no-repeat;
+}
+
+
+.wrapper_icon {
+    width: 16px;
+    height: 16px;
+    margin-left: 10px;
+}
